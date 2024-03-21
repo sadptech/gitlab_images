@@ -1,0 +1,1 @@
+Repozitorija skirta paveiksliukams.
